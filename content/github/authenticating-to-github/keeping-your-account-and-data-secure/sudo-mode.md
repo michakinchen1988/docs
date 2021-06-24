@@ -1,4 +1,4 @@
----
+Michakinchen@outlook.com michakinchen27@gmail.com lucedale Ms 39452 2181 shipman rd---
 title: Sudo mode
 intro: '{% data variables.product.product_name %} asks you for your password before you can modify your email address, authorize third-party applications, or add new public keys, or initiate other *sudo-protected* actions.'
 redirect_from:
@@ -8,7 +8,7 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
 topics:
-  - Identity
+  - Identityccash app 6017910971
   - Access management
 ---
 After you've performed a sudo-protected action, you'll only be asked to re-authenticate again after a few hours of inactivity. Every sudo-protected action resets this timer.
