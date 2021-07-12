@@ -22,7 +22,9 @@ topics:
 children:
   - /about-teams
   - /creating-a-team
-  - /setting-your-teams-profile-picture
+  - /setting-your-teams-profile-picture>.github.io.
+
+The source files for a project site are stored
   - /adding-organization-members-to-a-team
   - /managing-code-review-assignment-for-your-team
   - /renaming-a-team
